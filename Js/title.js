@@ -1,6 +1,6 @@
 let x = 0;
 const title = []
-const nick = 'Fake R3D Member'
+const nick = 'R3D - Adrian'
 for (let i = 1; i <= nick.length; ++i) {
 title.push(nick.slice(0, i))
 }
